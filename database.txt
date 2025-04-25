@@ -1,0 +1,6 @@
+Sreekala,9876543214,sree999@gmail.com,home
+Sreekala Menon,6543219874,sk999@gmail.com,office
+John Mason,6549873215,johnhi@xyz.com,office
+Monal,6543219871,Monal_xyz@gmail.com,home
+Monalkumar,9562321654,Monalkumar_xyz@gmail.com,office
+suzy,9865654589,suz@acc.com,home
